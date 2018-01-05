@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="GoMath.NoiDungChuyenDe"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GoMath"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <ListView Name="Chuyendelv" SelectionChanged="ChuyenDeSelectionChanged" Margin="0,0,0,50" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock  FontSize="30" Text="{Binding TenChuyenDe }" HorizontalAlignment="Left" Margin="0,30,0,0">
+                        </TextBlock>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <AppBarButton  Icon="Back" Label="Trở lại" VerticalAlignment="Bottom" HorizontalAlignment="Left"  Click="TroLaiButton"/>
+        </Grid>
+</Page>

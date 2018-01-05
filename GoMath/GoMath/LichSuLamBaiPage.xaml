@@ -1,0 +1,59 @@
+﻿<Page
+    x:Class="GoMath.LichSuLamBaiPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GoMath"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid HorizontalAlignment="Center" Width="1260" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="164*"/>
+                <RowDefinition Height="489*"/>
+                <RowDefinition Height="67*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="437*">
+                </ColumnDefinition>
+                <ColumnDefinition Width="456*">
+                </ColumnDefinition>
+                <ColumnDefinition Width="367*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <TextBlock FontSize="20"  Text="Điểm của bạn" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Height="27" Width="121" />
+            <TextBlock FontSize="20" Text="Thời gian làm bài " Grid.Column="1"  Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Height="27"  Width="152"/>
+            <TextBlock FontSize="20" TextAlignment="Center" Text="Tên đề bài" Grid.Column="2"  Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Height="27" Width="200"/>
+            <ListView  Grid.Row="1" Grid.ColumnSpan="3" Width="1260" HorizontalAlignment="Center" Name="LichSuLamBailv"  >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Width="1240" HorizontalAlignment="Center">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="1*">
+                                </RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="437*">
+                                </ColumnDefinition>
+                                <ColumnDefinition Width="456*">
+                                </ColumnDefinition>
+                                <ColumnDefinition Width="367*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock HorizontalAlignment="Center" FontSize="20" Grid.Column="0" Text="{Binding DiemCuaBan}"/>
+                            <TextBlock HorizontalAlignment="Center" FontSize="20" Grid.Column="1"  Text="{Binding ThoiGianLamBai}"/>
+                            <TextBlock HorizontalAlignment="Center" FontSize="20" Grid.Column="2" TextWrapping="Wrap" Text="{Binding TenDeThi}"/>
+                            <Border BorderBrush="Black" BorderThickness="1" Grid.Column="0" />
+                            <Border BorderBrush="Black" BorderThickness="1" Grid.Column="1" />
+                            <Border BorderBrush="Black" BorderThickness="1" Grid.Column="2" />
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <AppBarButton Grid.Row="2" Icon="Back" Label="Trở lại" Click="TroLaiButton" HorizontalAlignment="Left" VerticalAlignment="Bottom" Height="60"/>
+            <Border BorderBrush="Black" BorderThickness="1" Grid.Row="0" Grid.Column="0" />
+            <Border BorderBrush="Black" BorderThickness="1" Grid.Row="0" Grid.Column="1"/>
+            <Border BorderBrush="Black" BorderThickness="1" Grid.Row="0" Grid.Column="2"/>
+            <Border BorderBrush="Black" BorderThickness="1" Grid.Row="1" Grid.ColumnSpan="3"/>
+        </Grid>
+    </Grid>
+</Page>

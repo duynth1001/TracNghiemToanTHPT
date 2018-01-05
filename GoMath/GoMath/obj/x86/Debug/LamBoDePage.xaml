@@ -1,0 +1,56 @@
+﻿<Page
+    x:Class="GoMath.LamBoDePage"
+    xmlns:Controls="using:GoMath.Controls" 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GoMath"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition Width="0.4*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:ConnectionId='1'                      Grid.Column="1" VerticalAlignment="Bottom" FontSize="40" Content="Nộp bài" Background="Red"  HorizontalAlignment="Center" FontFamily="Cambria Math"/>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top"  Grid.Column="1" Orientation="Horizontal">
+            <TextBlock Text="Thời gian còn lại:" FontSize="30"/>
+            <TextBlock x:ConnectionId='9'  FontSize="30" x:Name="txt"/>
+        </StackPanel>
+        <ListView x:ConnectionId='2' Name="quizlistview" Grid.Column="1" Margin="0,100,0,100">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Controls:CustomControl1 x:ConnectionId='8' SoCau="{Binding SoCauNguoiDung}"                                                                                  />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Grid Grid.Column="0">
+            <AppBarButton x:ConnectionId='3' HorizontalAlignment="Left" VerticalAlignment="Bottom" Icon="Back"                  Height="46"/>
+            <StackPanel Orientation="Vertical"  HorizontalAlignment="Center" VerticalAlignment="Bottom">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock FontSize="20" Text="Trang"/>
+                    <TextBlock x:ConnectionId='7' Name="txtblock" Margin="10,0,0,0" FontSize="20"/>
+                </StackPanel >
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock FontSize="10" Text="(Đề thi có tổng cộng"/>
+                    <TextBlock x:ConnectionId='6' Name="tongsotrang" Margin="5,0,0,0" FontSize="10"/>
+                    <TextBlock  Margin="5,0,0,0" FontSize="10" Text="trang)"/>
+                </StackPanel>
+            </StackPanel>
+            <FlipView x:ConnectionId='4' Margin="0,0,0,50"  Name="pdfViewer"                                  >
+                <FlipView.ItemTemplate>
+                <DataTemplate >
+                    <ScrollViewer x:ConnectionId='5' HorizontalScrollBarVisibility="Auto"                                           ZoomMode="Enabled">
+                        <Image Source="{Binding }" />
+                    </ScrollViewer>
+                </DataTemplate>
+            </FlipView.ItemTemplate>
+            </FlipView>
+        </Grid>
+    </Grid>
+</Page>
+

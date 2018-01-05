@@ -1,0 +1,78 @@
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\ApplicationInsights.config
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\roslyn\csc.exe
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\roslyn\System.Collections.Immutable.dll
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\roslyn\System.Reflection.Metadata.dll
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\roslyn\vbc.exe
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\roslyn\VBCSCompiler.exe
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\roslyn\VBCSCompiler.exe.config
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\GoMathWebService.dll.config
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\GoMathWebService.dll
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\GoMathWebService.pdb
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\Microsoft.AI.Agent.Intercept.dll
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\Microsoft.AI.DependencyCollector.dll
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\Microsoft.AI.PerfCounterCollector.dll
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\Microsoft.AI.Web.dll
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\Microsoft.AI.WindowsServer.dll
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\Microsoft.ApplicationInsights.dll
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\Microsoft.AI.DependencyCollector.xml
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\Microsoft.AI.Web.xml
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\Microsoft.AI.WindowsServer.xml
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\Microsoft.ApplicationInsights.xml
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\obj\Debug\GoMathWebService.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\obj\Debug\GoMathWebService.dll
+\\mac\home\documents\visual studio 2015\Projects\GoMathWebService\GoMathWebService\obj\Debug\GoMathWebService.pdb
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\ApplicationInsights.config
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\csc.exe
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\vbc.exe
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\VBCSCompiler.exe
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\._csc.exe
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\._Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\._Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\._Microsoft.CodeAnalysis.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\._Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\._Microsoft.CSharp.Core.targets
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\._Microsoft.VisualBasic.Core.targets
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\._System.Collections.Immutable.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\._System.Reflection.Metadata.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\._vbc.exe
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\._VBCSCompiler.exe
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\roslyn\._VBCSCompiler.exe.config
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\GoMathWebService.dll.config
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\GoMathWebService.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\GoMathWebService.pdb
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\Microsoft.AI.Web.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\Microsoft.AI.Web.xml
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\obj\Debug\GoMathWebService.csprojResolveAssemblyReference.cache
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\obj\Debug\GoMathWebService.dll
+C:\Users\VTC-Academy\Desktop\Trắc nghiệm toán thpt\GoMathWebService\GoMathWebService\obj\Debug\GoMathWebService.pdb
